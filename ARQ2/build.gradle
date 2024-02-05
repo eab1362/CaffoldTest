@@ -33,4 +33,3 @@ sonar {
 
 apply from: './main.gradle'
 
-}
